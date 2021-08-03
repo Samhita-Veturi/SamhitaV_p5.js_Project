@@ -1,0 +1,14 @@
+.heading{
+    text-align: center;
+    padding: 10px;
+    width: 90%;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+hr{
+    width: 500px;
+}
+canvas{
+    border: black 2px dashed;
+    margin-left: 250px;
+}
